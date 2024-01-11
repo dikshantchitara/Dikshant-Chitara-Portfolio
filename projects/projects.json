@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Kanini Academy - E-Learning Platform",
+    "desc": "Led the development of 'Kanini Academy,' an E-learning platform, utilizing Angular and TypeScript to create a user-friendly interface",
+    "image": "Kanini-Academy.png",
+    "category": "web_app",
+    "links": {
+    }
+  },
+  {
+    "name": "PG-LifeStyle",
+    "desc": "Developed PG-Lifestyle, an online platform enabling users to conveniently book hostels/PGs near their location, utilizing a tech stack of HTML, CSS, PHP, and JavaScript.",
+    "image": "pglife-project.png",
+    "category": "web_app",
+    "links": {
+      "view": "https://dikshantchitara.github.io/PG-LIFE-STYLE/",
+      "code": "https://github.com/dikshantchitara/PG-LIFE-STYLE"
+    }
+  },
+  {
+    "name": "Khawan Khanda",
+    "desc": "Crafted Khawan-Khanda, a take-away restaurant website, using HTML, CSS, JS, and PHP to provide an engaging and efficient online experience for users.",
+    "image": "khawan-khanda.jpg",
+    "category": "web_app",
+    "links": {
+      "view": "",
+      "code": "https://github.com/dikshantchitara/KHAWAN-KHANDA"
+    }
+  },
+  {
+    "name": "The Travellers",
+    "desc": "Designed 'The Travellers' website using HTML, CSS, and JavaScript to offer a dynamic and visually appealing platform for travel enthusiasts.",
+    "image": "tour-project.png",
+    "category": "web_app",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  }
+]
