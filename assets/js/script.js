@@ -99,13 +99,14 @@ function showSkills(skills) {
         skillHTML += `
         <div class="bar">
             <div class="info">
-                <img src="${skill.icon}" alt="skill" style="width: 48px; height: 48px; object-fit: contain; aspect-ratio:3/2; " />
+                <img src="${skill.icon}" alt="skill" style="width: 48px; height: 48px; object-fit: contain; aspect-ratio:3/2; mix-blend-mode:"color-burn"; " />
                 <span>${skill.name}</span>
             </div>
         </div>`;
     });
     skillsContainer.innerHTML = skillHTML;
 }
+
 
 
 

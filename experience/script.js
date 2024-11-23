@@ -57,8 +57,4 @@ function(){
         document.title = "Experience | Portfolio Dikshant Chitara";
         $("#favicon").attr("href","/assets/images/favicon.ico");
     }
-    else {
-        document.title = "Experience | Portfolio Amit Maity";
-        $("#favicon").attr("href","/assets/images/favicon.ico");
-    }
 });

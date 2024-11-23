@@ -4,13 +4,22 @@
         "icon": "assets/images/skills/python.jpg"  
     },
     {
+        "name": "NodeJS",
+        "icon": "assets/images/skills/NodeJS.jpg"  
+    },
+    {
+        "name": "MongoDB",
+        "icon": "assets/images/skills/mongodb.png"  
+    },
+    {
+        "name": "MySQL",
+        "icon": "assets/images/skills/mysql.jpg"  
+    },
+    {
         "name": "Pyspark",
         "icon": "assets/images/skills/pyspark.png"
     },
-    {
-        "name": "Angular",
-        "icon": "assets/images/skills/angular.png"
-    },
+    
     {
         "name": "HTML5",
         "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
@@ -27,10 +36,7 @@
         "name": "Java",
         "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
     },
-    {
-        "name": "Asp DotNet",
-        "icon": "assets/images/skills/asp.png"
-    },
+
     {
         "name": "C++",
         "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"

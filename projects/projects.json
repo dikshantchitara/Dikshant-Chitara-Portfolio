@@ -1,5 +1,15 @@
 [
   {
+    "name": "Jobeze.com & Employer.jobeze.com",
+    "desc": "Perfect AI - Jobsearch Website ",
+    "image": "jobeze.png",
+    "category": "web_app",
+    "links": {
+      "view": "https://www.jobeze.com",
+      "code": ""
+    }
+  },
+  {
     "name": "Kanini Academy - E-Learning Platform",
     "desc": "Led the development of 'Kanini Academy,' an E-learning platform, utilizing Angular and TypeScript to create a user-friendly interface",
     "image": "Kanini-Academy.png",
